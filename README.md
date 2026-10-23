@@ -12,7 +12,7 @@ A skill is a folder with a `SKILL.md` file (plus optional reference files) that 
 
 | Skill | What it does | Folder |
 |---|---|---|
-| 🔐 **vibe-code-security-audit** | Audits AI-generated ("vibe-coded") apps against 19 common security mistakes, like leaked API keys, missing auth checks, SQL injection and weak password storage, then helps fix them | [`Free-Game/vibe-code-security-audit`](Free-Game/vibe-code-security-audit) |
+| 🔐 **vibe-code-security-audit** | Audits AI-generated ("vibe-coded") apps against 19 common security mistakes, like leaked API keys, missing auth checks, SQL injection and weak password storage, then helps fix them | [`vibe-code-security-audit`](vibe-code-security-audit) |
 
 More coming. Watch or star the repo to catch new drops.
 
